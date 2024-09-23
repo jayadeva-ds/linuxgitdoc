@@ -1,0 +1,500 @@
+   72  echo "# Empassignment" >> README.md
+   73  git init
+   74  git checkout UC1_Emp_Attd
+   75  git branches
+   76  git branch
+   77  git checkout -b UC1_Emp_Attd  main
+   78  git status
+   79  git add .
+   80  git status
+   81  git commit -m "first branch commit"
+   82  git remote add origin https://github.com/jayadeva-ds/Empassignment.git
+   83  git push
+   84  git push -u origin UC1_Emp_Attd
+   85  cd ..
+   86  cd Employee_Wage_Computation_All_Cases-UC2
+   87  cd Employee_Wage_Computation_All_Cases-UC2
+   88  ls
+   89  cd  Employee_Wage_Computation_All_Cases-UC2_Daily_Employee_Wage/
+   90  git checkout -b UC2_Daily_Wage
+   91  git checkout -b UC2_Daily_Wage main
+   92  git --help
+   93  git branch UC2_Daily_Wage main
+   94  git branch UC2_Daily_Wage
+   95  git branch --help
+   96  git branch create UC2_Daily_Wage
+   97  git init
+   98  git branch UC2_Daily_Wage
+   99  git checkout -b UC2_Daily_Wage
+  100  git branch
+  101  git add .
+  102  git status
+  103  git commit -m "second branch commit"
+  104  git remote add origin https://github.com/jayadeva-ds/Empassignment.git
+  105  git push -u origin UC2_Daily_Wage
+  106  git init
+  107  git status
+  108  git add .
+  109  git commit -m "base project"
+  110  git remote https://github.com/jayadeva-ds/EmpAssignmentRepo.git origin
+  111  [200~git remote add origin https://github.com/jayadeva-ds/EmpAssignmentRepo.git~
+  112  git remote add origin https://github.com/jayadeva-ds/EmpAssignmentRepo.git
+  113  git push -u origin master
+  114  git branch
+  115  git fetch
+  116  git branch
+  117  git branchs
+  118  git status
+  119  git --help
+  120  git branch --list
+  121  git branch -r 
+  122  git checkout UC1_Emp_att
+  123  git satus
+  124  git status
+  125  git status
+  126  pwd
+  127  git status
+  128  git add .
+  129  git commit -m "branch 1 commit"
+  130  git push -u origin UC1_Emp_att
+  131  git branch -r
+  132  git checkout UC2_Emp_Wages
+  133  git add .
+  134  git checkout UC2_Emp_Wages
+  135  git commit -m "second branch code"
+  136  git checkout UC2_Emp_Wages
+  137  git push -u origin UC2_Emp_Wages
+  138  git add ,
+  139  git add .
+  140  git commit -m "second branch code"
+  141  git push -u origin UC2_Emp_Wages
+  142  git fetch
+  143  git branch -r
+  144  git checkout origin/UC3_PartTime
+  145  git checkout UC3_PartTime
+  146  git add .
+  147  git status
+  148  git commit -m "third branchcode"
+  149  git push -u origin UC3
+  150  git push -u origin UC3_PartTime
+  151  pwd
+  152  cd /d
+  153  cd folder1
+  154  ls
+  155  touch hhdhg.txt kuhdkh .og hjkhdk.txt
+  156  toucg klj.pdf
+  157  ls
+  158  touch .gitignor
+  159  ls
+  160  ls -l
+  161  ls -a
+  162  nano ./.gitignore
+  163  git status
+  164  git st
+  165  git status
+  166  git init
+  167  git branch
+  168  git status
+  169  git branch UC4_UseSwitch
+  170  git branch
+  171  git branch -v
+  172  git checkout UC4_UseSwitch
+  173  git checkout -b UC4_UseSwitch
+  174  git branch
+  175  git push -u origin rigin uc4_UseSwitch
+  176  cd EmpAssignmentRepo
+  177  cd ../
+  178  cd EmpAssignmentRepo
+  179  cd ./EmpAssignmentRepo
+  180  cd EmpAssignment
+  181  cd EmployeeAssignment
+  182  git branch
+  183  git status
+  184  git branch
+  185  git checkout -b UC4_UseSwitch
+  186  cd ..
+  187  cd Employee_wage_comput
+  188  echo "# Employee_wage_comput" >> README.md
+  189  git init
+  190  git add README.md
+  191  git commit -m "first commit"
+  192  git branch -M main
+  193  git remote add origin https://github.com/jayadeva-ds/Employee_wage_comput.git
+  194  git push -u origin main
+  195  cd Employee_Wage_compute
+  196  cd Employee_Wage_comput
+  197  cd Employee_wage_comput
+  198  git clone https://github.com/jayadeva-ds/testemp.git
+  199  ls
+  200  cd testemp
+  201  git status
+  202  touch README.md main.java
+  203  nano main.java
+  204  git status
+  205  git add .
+  206  git commit -m "readme and main"
+  207  git branch
+  208  git remote
+  209  git push origin main
+  210  git branch "UC1"
+  211  git branch
+  212  git checkout UC1
+  213  ls
+  214  nano ./main.java
+  215  git add .
+  216  git status
+  217  git commit -m "UC1"
+  218  git push main origin
+  219  git checkout main
+  220  git push origin main
+  221  git push main origin
+  222  git checkout uc1
+  223  git push main uc1
+  224  git branch
+  225  git push uc1
+  226  git checkout UC1
+  227  git push UC1
+  228  git push main UC1
+  229  git push origin main
+  230  git checkout main
+  231  git branch
+  232  git merge UC1
+  233  git push origin main
+  234  git branch
+  235  git checkout uc1
+  236  git status
+  237  git push origin UC1
+  238  git checkout main
+  239  git merge UC1
+  240  git branch
+  241  ls
+  242  cd ../
+  243  ls
+  244  cd testemp
+  245  git status
+  246  nano main.java
+  247  history
+  248  pwd
+  249  cd /d
+  250  cd testemp
+  251  ls
+  252  nano main.java\
+  253  nano main.java
+  254  git status
+  255  git add .
+  256  git commit -m " readme and main "
+  257  git branch
+  258  git remote
+  259  git push origin main
+  260  git branch "UC2_daily_emp_wage"
+  261  git branch
+  262  git checkout UC2_daily_emp_wage
+  263  ls
+  264  nano ./main.java
+  265  git add .
+  266  git status
+  267  git commit -m "UC2_daily_wage"
+  268  git push main origin
+  269  git checkout main
+  270  git push origin main
+  271  git push origin main
+  272  git push main origin
+  273  git branch
+  274  git push UC2_daily_wage
+  275  git checkout UC2_daily_wage
+  276  git push UC2_daily_wage
+  277  git push mainUC2_daily_wage
+  278  git push main UC2_daily_wage
+  279  git branch
+  280  git checkout UC2_daily_wage
+  281  git push origin main
+  282  git branch
+  283  git checkout UC2_daily_wage
+  284  git status
+  285  git push origin UC2_daily_wage
+  286  git checkout main
+  287  git merge UC2_daily_wage
+  288  clear
+  289  git --version
+  290  git config\
+  291  git config
+  292  cd ../
+  293  git config
+  294  git config --global --list
+  295  clear
+  296  mkdir folder3
+  297  pwd
+  298  cd folder3
+  299  git init
+  300  git status
+  301  git branch
+  302  git branch -b
+  303  git branch -v
+  304  git branch UC2_daily_emp_wage
+  305  git status
+  306  git checkout -b master
+  307  git branch UC2_daily_emp_wage
+  308  cd ../
+  309  cd testemp
+  310  git status
+  311  touch README.md
+  312  ls
+  313  nano main.java
+  314  git status
+  315  git add .
+  316  git commit -m "readcommit"
+  317  git branch
+  318  git remote
+  319  git push -u origin main
+  320  git branch UC2_daily_emp_wage
+  321  git push origin --delete UC2_daily_emp_wage
+  322  git remote
+  323  git branch
+  324  git branch UC2_daily_emp_wage
+  325  git branch UC2_daily_emp_wage
+  326  git branch
+  327  git checkout UC2_daily_emp_wage 
+  328  nano ./.
+  329  pwd
+  330  mkdir git-course
+  331  cd /d
+  332  cd testemp
+  333  git checkout -b UC3_Multiple_compani
+  334  touch empwag
+  335  nano ./.
+  336  git add .
+  337  git push empwag
+  338  git commit -m "welcom8"
+  339  git push empwag
+  340  git push origin UC3_Multiple_Compani
+  341  git push origin UC3_Multiple_compani
+  342  git checkout main
+  343  git merge UC3_Multiple_compani
+  344  clear
+  345  pwd
+  346  cd ../
+  347  cd ../
+  348  pwd
+  349  cd /d
+  350  cd /c
+  351  pwd
+  352  mkdir gitcouse
+  353  ls
+  354  gitcource % dir
+  355  cd gitcource
+  356  cd gitcouse
+  357  echo "#gitcourse demo">>README.md
+  358  cat README.md
+  359  ls
+  360  git init
+  361  ls -a
+  362  git status
+  363  echo "#gitcource demo" README.md
+  364  git init
+  365  git add .
+  366  git commit -m "first commit"
+  367  git branch -M main
+  368  ssh-keygen -o
+  369  cd ../
+  370  ls
+  371  ls -a
+  372  cd gitcouse
+  373  ls
+  374  ls -a
+  375  cd ../
+  376  ls -a
+  377  cd gitcouse
+  378  ls
+  379  git remote add origin https://github.com/jayadeva-ds/gitcouse.git
+  380  ls -a
+  381  git push -u origin main
+  382   echo "#gitcourse demo">>README.md
+  383  git push -u origin main
+  384   echo "#gitcourse demo for second times ">>README.md
+  385  git push -u origin main
+  386  pwd
+  387  ubuntu
+  388  ubuntu --version
+  389  clear
+  390  pwd
+  391  cd /d
+  392  dc temp
+  393  cd m27
+  394  cd temp
+  395  ls
+  396  mkdir demo1.txt
+  397  mkdir demo2.txt
+  398  mkdir demo3.txt
+  399  mkdir demo4.txt
+  400  kkdir demo5.log
+  401  mkdir demo5.log
+  402  ls
+  403  touch file1.txt
+  404  touch file2.log
+  405  ls
+  406  pwd
+  407  touch sample
+  408  ls
+  409  mv sample sample-copy
+  410  ls
+  411  rm sample-copy
+  412  ls
+  413  touch new-file
+  414  ln -s new-file new-file-link
+  415  ls -l
+  416  ls
+  417  cat file1.txt
+  418  echo <abcd>
+  419  echo file1.txt
+  420  cat file1.txt | less
+  421  man ls
+  422  uname -a
+  423  whoami
+  424  uname -s
+  425  uname -n
+  426  uname -r
+  427  uname -r
+  428  uname -v
+  429  uname -m
+  430  ls
+  431  touch compress.tar
+  432  tar -cvf compress.tar new-file new-file-link
+  433  ls
+  434  tar -xvf compress.tar
+  435  ls
+  436  pwd
+  437  cd /d
+  438  cd m27
+  439  cd temp
+  440  pwd
+  441  ls
+  442  man man
+  443  tar -cvf compress.tar file1.txt,new-file
+  444  ls
+  445  tar -cvf compress.tar file1.txt,new-file
+  446  tuoch compress.tar
+  447  ls
+  448  tar -cvf compress.tar file1.txt,new-file
+  449  tar -cvf compress.tar file1.txt new-file
+  450  ls
+  451  cat compress.tar
+  452  touch sample.zip
+  453  ls
+  454  zip sample.zip file2.log new
+  455  touch file3.txt
+  456  ls
+  457  zip sample.zip file2.log file3.txt
+  458  ls
+  459  cat sample.zip
+  460  zip sample.zip new-file
+  461  touch file4
+  462  ls
+  463  zip sample.zip file4
+  464  cat file1.txt
+  465  cat file1.txt | grep "to"
+  466  cat file1.txt
+  467  head file1.txt
+  468  tail file1.txt
+  469  tail -20file1.txt
+  470  tail -20 file1.txt
+  471  tail -15 file1.txt
+  472  head -15 file1.txt
+  473  diff file1.txt file2.log
+  474  cmp file1.txt file2.log
+  475  cmp file1.txt file2.log
+  476  comm file1.txt file2.log
+  477  cat file2.log
+  478  sort file2.log
+  479  export ps1=12
+  480  ls
+  481  service ssh status
+  482  ps -ef
+  483  ps -p 
+  484  ps -p PID
+  485  df -h
+  486  mount
+  487  chmod +x loop.sh
+  488  touch loop.sh
+  489  chmod +x loop.sh
+  490  ls -l loop.sh
+  491  ifconfig
+  492  traceroute localhost
+  493  wget 
+  494  wget https://ar.snap.com/lens-studio-dl?utm_source=Display&utm_medium=PAIDPLATFORM&utm_campaign=LensStudio_Consideration_IN/ID&utm_term=CareerArtists_RDA&utm_content=LS_ProductPage&gad_source=5&gclid=EAIaIQobChMIvdbT4ILSiAMVDp-sAh0yjTeYEAEYASAAEgJR_vD_BwE
+  495  sudo ls
+  496  cal
+  497  cal may 2020
+  498  alias lsl="ls -l"
+  499  ls
+  500  lsl
+  501  pwd
+  502  cd /d
+  503  cd m27
+  504  cd temp
+  505  less
+  506  less ./temp
+  507  less /m27/temp
+  508  less file1.txt
+  509  ls -p | grep -v 
+  510  env
+  511  echo user
+  512  echo $user
+  513  ls
+  514  echpo shell
+  515  echo shell
+  516  echo SHELL
+  517  du -sh
+  518  nano -t
+  519  clear
+  520  pwd
+  521  cd ../
+  522  cd ~
+  523  pwd
+  524  ls -u
+  525  ls -a
+  526  rm -r .git/
+  527  clear
+  528  ls
+  529  ls -a
+  530  ls -l
+  531  clear
+  532  ls
+  533  cd OneDrive/
+  534  LS
+  535  cd desktop
+  536  clear
+  537  mkdir linuxpractice
+  538  cd linuxpractice/
+  539  touch file1.txt
+  540  ls
+  541  nano file2.txt
+  542  ls
+  543  cat file2.txt
+  544  nano file1.txt
+  545  cat file1.txt
+  546  ls
+  547  mkdir abc
+  548  ls
+  549  cp file1.txt abc/
+  550  ls
+  551  cd abc/
+  552  ls
+  553  cd ../
+  554  ls
+  555  mv file2.txt abc/
+  556  ls
+  557  cd abc/
+  558  ls
+  559  cd ../
+  560  mkdir def
+  561  ls
+  562  rm file1.txt 
+  563  ls
+  564  rmdir def/
+  565  ls
+  566  rmdir abc/
+  567  rm -r abc/
+  568  ls
+  569  history
+  570  history
+  571  history >commands.txt

@@ -1,0 +1,500 @@
+   74  git branch UC2_daily_emp_wage
+   75  git status
+   76  git checkout -b master
+   77  git branch UC2_daily_emp_wage
+   78  cd ../
+   79  cd testemp
+   80  git status
+   81  touch README.md
+   82  ls
+   83  nano main.java
+   84  git status
+   85  git add .
+   86  git commit -m "readcommit"
+   87  git branch
+   88  git remote
+   89  git push -u origin main
+   90  git branch UC2_daily_emp_wage
+   91  git push origin --delete UC2_daily_emp_wage
+   92  git remote
+   93  git branch
+   94  git branch UC2_daily_emp_wage
+   95  git branch UC2_daily_emp_wage
+   96  git branch
+   97  git checkout UC2_daily_emp_wage 
+   98  nano ./.
+   99  pwd
+  100  mkdir git-course
+  101  cd /d
+  102  cd testemp
+  103  git checkout -b UC3_Multiple_compani
+  104  touch empwag
+  105  nano ./.
+  106  git add .
+  107  git push empwag
+  108  git commit -m "welcom8"
+  109  git push empwag
+  110  git push origin UC3_Multiple_Compani
+  111  git push origin UC3_Multiple_compani
+  112  git checkout main
+  113  git merge UC3_Multiple_compani
+  114  clear
+  115  pwd
+  116  cd ../
+  117  cd ../
+  118  pwd
+  119  cd /d
+  120  cd /c
+  121  pwd
+  122  mkdir gitcouse
+  123  ls
+  124  gitcource % dir
+  125  cd gitcource
+  126  cd gitcouse
+  127  echo "#gitcourse demo">>README.md
+  128  cat README.md
+  129  ls
+  130  git init
+  131  ls -a
+  132  git status
+  133  echo "#gitcource demo" README.md
+  134  git init
+  135  git add .
+  136  git commit -m "first commit"
+  137  git branch -M main
+  138  ssh-keygen -o
+  139  cd ../
+  140  ls
+  141  ls -a
+  142  cd gitcouse
+  143  ls
+  144  ls -a
+  145  cd ../
+  146  ls -a
+  147  cd gitcouse
+  148  ls
+  149  git remote add origin https://github.com/jayadeva-ds/gitcouse.git
+  150  ls -a
+  151  git push -u origin main
+  152   echo "#gitcourse demo">>README.md
+  153  git push -u origin main
+  154   echo "#gitcourse demo for second times ">>README.md
+  155  git push -u origin main
+  156  pwd
+  157  ubuntu
+  158  ubuntu --version
+  159  clear
+  160  pwd
+  161  cd /d
+  162  dc temp
+  163  cd m27
+  164  cd temp
+  165  ls
+  166  mkdir demo1.txt
+  167  mkdir demo2.txt
+  168  mkdir demo3.txt
+  169  mkdir demo4.txt
+  170  kkdir demo5.log
+  171  mkdir demo5.log
+  172  ls
+  173  touch file1.txt
+  174  touch file2.log
+  175  ls
+  176  pwd
+  177  touch sample
+  178  ls
+  179  mv sample sample-copy
+  180  ls
+  181  rm sample-copy
+  182  ls
+  183  touch new-file
+  184  ln -s new-file new-file-link
+  185  ls -l
+  186  ls
+  187  cat file1.txt
+  188  echo <abcd>
+  189  echo file1.txt
+  190  cat file1.txt | less
+  191  man ls
+  192  uname -a
+  193  whoami
+  194  uname -s
+  195  uname -n
+  196  uname -r
+  197  uname -r
+  198  uname -v
+  199  uname -m
+  200  ls
+  201  touch compress.tar
+  202  tar -cvf compress.tar new-file new-file-link
+  203  ls
+  204  tar -xvf compress.tar
+  205  ls
+  206  pwd
+  207  cd /d
+  208  cd m27
+  209  cd temp
+  210  pwd
+  211  ls
+  212  man man
+  213  tar -cvf compress.tar file1.txt,new-file
+  214  ls
+  215  tar -cvf compress.tar file1.txt,new-file
+  216  tuoch compress.tar
+  217  ls
+  218  tar -cvf compress.tar file1.txt,new-file
+  219  tar -cvf compress.tar file1.txt new-file
+  220  ls
+  221  cat compress.tar
+  222  touch sample.zip
+  223  ls
+  224  zip sample.zip file2.log new
+  225  touch file3.txt
+  226  ls
+  227  zip sample.zip file2.log file3.txt
+  228  ls
+  229  cat sample.zip
+  230  zip sample.zip new-file
+  231  touch file4
+  232  ls
+  233  zip sample.zip file4
+  234  cat file1.txt
+  235  cat file1.txt | grep "to"
+  236  cat file1.txt
+  237  head file1.txt
+  238  tail file1.txt
+  239  tail -20file1.txt
+  240  tail -20 file1.txt
+  241  tail -15 file1.txt
+  242  head -15 file1.txt
+  243  diff file1.txt file2.log
+  244  cmp file1.txt file2.log
+  245  cmp file1.txt file2.log
+  246  comm file1.txt file2.log
+  247  cat file2.log
+  248  sort file2.log
+  249  export ps1=12
+  250  ls
+  251  service ssh status
+  252  ps -ef
+  253  ps -p 
+  254  ps -p PID
+  255  df -h
+  256  mount
+  257  chmod +x loop.sh
+  258  touch loop.sh
+  259  chmod +x loop.sh
+  260  ls -l loop.sh
+  261  ifconfig
+  262  traceroute localhost
+  263  wget 
+  264  wget https://ar.snap.com/lens-studio-dl?utm_source=Display&utm_medium=PAIDPLATFORM&utm_campaign=LensStudio_Consideration_IN/ID&utm_term=CareerArtists_RDA&utm_content=LS_ProductPage&gad_source=5&gclid=EAIaIQobChMIvdbT4ILSiAMVDp-sAh0yjTeYEAEYASAAEgJR_vD_BwE
+  265  sudo ls
+  266  cal
+  267  cal may 2020
+  268  alias lsl="ls -l"
+  269  ls
+  270  lsl
+  271  pwd
+  272  cd /d
+  273  cd m27
+  274  cd temp
+  275  less
+  276  less ./temp
+  277  less /m27/temp
+  278  less file1.txt
+  279  ls -p | grep -v 
+  280  env
+  281  echo user
+  282  echo $user
+  283  ls
+  284  echpo shell
+  285  echo shell
+  286  echo SHELL
+  287  du -sh
+  288  nano -t
+  289  clear
+  290  pwd
+  291  cd ../
+  292  cd ~
+  293  pwd
+  294  ls -u
+  295  ls -a
+  296  rm -r .git/
+  297  clear
+  298  ls
+  299  ls -a
+  300  ls -l
+  301  clear
+  302  ls
+  303  cd OneDrive/
+  304  LS
+  305  cd desktop
+  306  clear
+  307  mkdir linuxpractice
+  308  cd linuxpractice/
+  309  touch file1.txt
+  310  ls
+  311  nano file2.txt
+  312  ls
+  313  cat file2.txt
+  314  nano file1.txt
+  315  cat file1.txt
+  316  ls
+  317  mkdir abc
+  318  ls
+  319  cp file1.txt abc/
+  320  ls
+  321  cd abc/
+  322  ls
+  323  cd ../
+  324  ls
+  325  mv file2.txt abc/
+  326  ls
+  327  cd abc/
+  328  ls
+  329  cd ../
+  330  mkdir def
+  331  ls
+  332  rm file1.txt 
+  333  ls
+  334  rmdir def/
+  335  ls
+  336  rmdir abc/
+  337  rm -r abc/
+  338  ls
+  339  history
+  340  history
+  341  history >commands.txt
+  342  ls
+  343  cat commands.txt 
+  344  ls
+  345  ls
+  346  ls -u
+  347  la -a
+  348  ls -a
+  349  ls -l
+  350  pwd
+  351  cd
+  352  cd nano file2.txt
+  353   nano file2.txt
+  354  ls
+  355  cd oneDrive
+  356  cd desktop
+  357  cd linuxpractice/
+  358  ls
+  359  touch new-file new-file-link
+  360  ls
+  361  rm new-file-link 
+  362  ls
+  363  ln -s new-file new-file-link
+  364  ls
+  365  ls -l
+  366  touch new-file-link 
+  367  ls
+  368  ln -s new-file new-file-link
+  369  ln -s new-file file1.txt
+  370  lks
+  371  ls
+  372  ls -l
+  373  clear
+  374  cat file2.txt
+  375  ls
+  376  cat file1.txt 
+  377  echo new-file
+  378  cat file1.txt | less
+  379  nano file1.txt 
+  380  cat file1.txt | less
+  381  man ls
+  382  man ls
+  383  MAN ls
+  384  uname -a
+  385  whoami
+  386  ls
+  387  touch file2.txt
+  388  touch file3.txt
+  389  ls
+  390  tar -cvf crearc file2.txt file3.txt 
+  391  tar -xvf crearc
+  392  ls
+  393  touch sample.zip
+  394  ls
+  395  zip sample.zip file2.txt file3.txt 
+  396  zip sample2.zip file2.txt file3.txt 
+  397  unzip sample2.zip
+  398  unzip sample2.zip
+  399  ls
+  400  unzip sample2.zip
+  401  nano file2.txt 
+  402  cat new-file
+  403  cat file2.txt 
+  404  cat file2.txt | grep "learn"
+  405  head file2.txt 
+  406  tail file2.txt 
+  407  history
+  408  clear
+  409  ls
+  410  clear
+  411  pwd
+  412  cd oneDrive
+  413  cd desktop[
+  414  cd desktop
+  415  cd linuxcommands
+  416  cd linuxpractice
+  417  ls
+  418  diff file1.txt file2.txt 
+  419  cmp file1.txt file2.txt 
+  420  comm file1.txt file2.txt 
+  421  sort file1.txt 
+  422  sort -n file1.txt 
+  423  sort -k 2 file1.txt 
+  424  export ps1 ="-->"
+  425  export ps1 ="aa"
+  426  export ps1 ="11"
+  427  export
+  428  export -p
+  429  student=abc
+  430  export student
+  431  printenv student
+  432  export var=ab
+  433  printenv var
+  434  clear
+  435  ssh username@remoteserver
+  436  lidbdnhjhgg  
+  437  service ssh status
+  438  Service ssh status
+  439  SERVICE ssh status
+  440  SERVICE ssh stop
+  441  ps
+  442  ps -p pid
+  443  kill 986
+  444  ps
+  445  taskkill PID 986 /f
+  446  kill PID 986 /f
+  447  kill  986 /f
+  448  kill  986 
+  449  kill --help
+  450  kill -l 986
+  451  sudo kill 986
+  452  kill 4686
+  453  kill 985
+  454  history
+  455  clear
+  456  ls
+  457  clear
+  458  pwd
+  459  cd oneDrive
+  460  cd desktop[
+  461  cd desktop
+  462  cd linuxcommands
+  463  cd linuxpractice
+  464  ls
+  465  diff file1.txt file2.txt 
+  466  cmp file1.txt file2.txt 
+  467  comm file1.txt file2.txt 
+  468  sort file1.txt 
+  469  sort -n file1.txt 
+  470  sort -k 2 file1.txt 
+  471  export ps1 ="-->"
+  472  export ps1 ="aa"
+  473  export ps1 ="11"
+  474  export
+  475  export -p
+  476  student=abc
+  477  export student
+  478  printenv student
+  479  export var=ab
+  480  printenv var
+  481  clear
+  482  ssh username@remoteserver
+  483  lidbdnhjhgg  
+  484  service ssh status
+  485  Service ssh status
+  486  SERVICE ssh status
+  487  SERVICE ssh stop
+  488  ps
+  489  ps -p pid
+  490  kill 986
+  491  ps
+  492  taskkill PID 986 /f
+  493  kill PID 986 /f
+  494  kill  986 /f
+  495  kill  986 
+  496  kill --help
+  497  kill -l 986
+  498  sudo kill 986
+  499  kill 4686
+  500  kill 985
+  501  pwd
+  502  history
+  503  ps
+  504  cd /oneDrive
+  505  cd oneDrive
+  506  cd desktop
+  507  cd linuxpractice
+  508  ps
+  509  df
+  510  mount
+  511  chmod +x loop.sh
+  512  touch loop.sh
+  513  chmod +x loop.sh
+  514  ls -l loop.sh
+  515  chmod +x loop.sh
+  516  ls -l loop.sh
+  517  chmod +x loop.sh
+  518  ls -l loop.sh
+  519  chown dsjay:dsjai loop.sh
+  520  ifconfig
+  521  traceroute localhost
+  522  wget xyz file1.txt 
+  523  wget xyz to file1.txt 
+  524  ufw allow 80
+  525  iptable
+  526  sudo ls
+  527  sudo password
+  528  cal
+  529  cal march 2024
+  530  su -pal
+  531  yum install nginx
+  532  sudo yum install nginx
+  533  sudo yum install nginx
+  534  less /sudoers
+  535  whereis
+  536  whereis sudo
+  537  top
+  538  top -o MEM
+  539  password
+  540  passwd
+  541  passwd username
+  542  git config -global user
+  543  git config --global user
+  544  ls ..
+  545  ls .
+  546  ls -a
+  547  whereis ls
+  548  man ls
+  549  less
+  550  less file1.txt 
+  551  ls -p | grep /
+  552  ls
+  553  ls -p | grep .txt
+  554  find -size +5m
+  555  find -size +5M
+  556  find .name *.pdf -size +5M
+  557  find  *.pdf -size +5M
+  558  find  *.txt -size +5M
+  559  find  *.txt -size -5M
+  560  ls -p | grep -v /
+  561  ls  | grep -v /
+  562  env
+  563  env | grep user
+  564  echo user
+  565  echo $user
+  566  echo $USER
+  567  each $SHELL
+  568  DU
+  569  du -sh
+  570  du -sm
+  571  du -sk * | sort -n
+  572  jobs
+  573  history > commands2.txt
