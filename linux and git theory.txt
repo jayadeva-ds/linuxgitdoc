@@ -1,0 +1,68 @@
+what is Linux?
+Linux is a free, open-source operating system (OS) based on the Unix architecture. It serves as the interface between computer hardware and software, managing resources like the CPU, memory, and storage. Key features of Linux include.
+
+why we use commands?
+-> it increase the efficience.
+-> it is having more flexibility and power.
+
+command line interface(CLI) : 
+                            provides greater control over the system,permitting user to accomplish complex tasks with specific commands.
+
+
+
+
+To use any hardware we need software.
+
+Kernel :The kernel is the core component of an operating system (OS).
+         It acts as a bridge between the hardware of the computer and the software applications that run on it.
+
+ GUI: gui abstracting the CUI commands.  
+
+
+ARGUMENT AND OPTION :
+
+Arguments are additional pieces of information provided to a command to specify what the command should act upon. They often include file names, directories, or other inputs that tell the command what to process.
+
+ex : ls /home/user/documents
+    
+  in the above example the /home/user/documents is the argument.
+It tells ls to list the contents of that directory.
+
+
+Options modify the behavior of the command. They usually start with a - (single dash) for short-form options (e.g., -a) or -- (double dash) for long-form options (e.g., --all). These options change how the command works or add additional features.
+
+ex : ls -l
+
+
+GIT:
+
+What It Is: Git is a distributed version control system (VCS) that allows you to track changes in your source code and manage different versions of it over time.
+
+Purpose: Git helps developers collaborate on a project by providing a way to track changes made by different team members, allowing them to merge changes, revert to earlier versions, and manage branches of development.
+
+gitignore : 
+
+.gitignore is a special file used in Git repositories to specify files and directories that Git should ignore and not track. This means that any files or folders listed in the .gitignore file will not be added to your repository, nor will they appear in Git's tracking or version control.
+
+
+
+
+ GitHub:
+
+
+
+What It Is: GitHub is a cloud-based platform that hosts Git repositories. It provides a web interface and additional tools for managing projects that use Git for version control.
+
+Purpose: GitHub allows teams or individuals to store their Git repositories remotely, making collaboration easier. It adds a layer of functionality for version control, team collaboration, and project management.
+
+Hosting Service: GitHub provides an online space for repositories where developers can store their code, track issues, and collaborate in real time. GitHub is also used to share open-source projects.
+
+
+A public repository in Git (especially on platforms like GitHub, GitLab, or Bitbucket) is a repository that anyone can view and, depending on the settings, contribute to. It contrasts with a private repository, where access is restricted.
+
+A private repository in Git (on platforms like GitHub, GitLab, or Bitbucket) is a repository where access is restricted to specific people. Unlike public repositories, which are open to everyone, private repositories are used to keep code, projects, or other files confidential and accessible only to authorized collaborators.
+
+
+
+
+     

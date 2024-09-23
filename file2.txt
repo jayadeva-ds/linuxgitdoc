@@ -1,0 +1,3 @@
+hello, welcom to journaldev.
+the one spot to learn everything related to programming.
+the above information continued in the next line.
