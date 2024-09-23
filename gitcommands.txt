@@ -1,0 +1,500 @@
+    3  git push origin --delete UC2_daily_emp_wage
+    4  git remote
+    5  git branch
+    6  git branch UC2_daily_emp_wage
+    7  git branch UC2_daily_emp_wage
+    8  git branch
+    9  git checkout UC2_daily_emp_wage 
+   10  nano ./.
+   11  pwd
+   12  mkdir git-course
+   13  cd /d
+   14  cd testemp
+   15  git checkout -b UC3_Multiple_compani
+   16  touch empwag
+   17  nano ./.
+   18  git add .
+   19  git push empwag
+   20  git commit -m "welcom8"
+   21  git push empwag
+   22  git push origin UC3_Multiple_Compani
+   23  git push origin UC3_Multiple_compani
+   24  git checkout main
+   25  git merge UC3_Multiple_compani
+   26  clear
+   27  pwd
+   28  cd ../
+   29  cd ../
+   30  pwd
+   31  cd /d
+   32  cd /c
+   33  pwd
+   34  mkdir gitcouse
+   35  ls
+   36  gitcource % dir
+   37  cd gitcource
+   38  cd gitcouse
+   39  echo "#gitcourse demo">>README.md
+   40  cat README.md
+   41  ls
+   42  git init
+   43  ls -a
+   44  git status
+   45  echo "#gitcource demo" README.md
+   46  git init
+   47  git add .
+   48  git commit -m "first commit"
+   49  git branch -M main
+   50  ssh-keygen -o
+   51  cd ../
+   52  ls
+   53  ls -a
+   54  cd gitcouse
+   55  ls
+   56  ls -a
+   57  cd ../
+   58  ls -a
+   59  cd gitcouse
+   60  ls
+   61  git remote add origin https://github.com/jayadeva-ds/gitcouse.git
+   62  ls -a
+   63  git push -u origin main
+   64   echo "#gitcourse demo">>README.md
+   65  git push -u origin main
+   66   echo "#gitcourse demo for second times ">>README.md
+   67  git push -u origin main
+   68  pwd
+   69  ubuntu
+   70  ubuntu --version
+   71  clear
+   72  pwd
+   73  cd /d
+   74  dc temp
+   75  cd m27
+   76  cd temp
+   77  ls
+   78  mkdir demo1.txt
+   79  mkdir demo2.txt
+   80  mkdir demo3.txt
+   81  mkdir demo4.txt
+   82  kkdir demo5.log
+   83  mkdir demo5.log
+   84  ls
+   85  touch file1.txt
+   86  touch file2.log
+   87  ls
+   88  pwd
+   89  touch sample
+   90  ls
+   91  mv sample sample-copy
+   92  ls
+   93  rm sample-copy
+   94  ls
+   95  touch new-file
+   96  ln -s new-file new-file-link
+   97  ls -l
+   98  ls
+   99  cat file1.txt
+  100  echo <abcd>
+  101  echo file1.txt
+  102  cat file1.txt | less
+  103  man ls
+  104  uname -a
+  105  whoami
+  106  uname -s
+  107  uname -n
+  108  uname -r
+  109  uname -r
+  110  uname -v
+  111  uname -m
+  112  ls
+  113  touch compress.tar
+  114  tar -cvf compress.tar new-file new-file-link
+  115  ls
+  116  tar -xvf compress.tar
+  117  ls
+  118  pwd
+  119  cd /d
+  120  cd m27
+  121  cd temp
+  122  pwd
+  123  ls
+  124  man man
+  125  tar -cvf compress.tar file1.txt,new-file
+  126  ls
+  127  tar -cvf compress.tar file1.txt,new-file
+  128  tuoch compress.tar
+  129  ls
+  130  tar -cvf compress.tar file1.txt,new-file
+  131  tar -cvf compress.tar file1.txt new-file
+  132  ls
+  133  cat compress.tar
+  134  touch sample.zip
+  135  ls
+  136  zip sample.zip file2.log new
+  137  touch file3.txt
+  138  ls
+  139  zip sample.zip file2.log file3.txt
+  140  ls
+  141  cat sample.zip
+  142  zip sample.zip new-file
+  143  touch file4
+  144  ls
+  145  zip sample.zip file4
+  146  cat file1.txt
+  147  cat file1.txt | grep "to"
+  148  cat file1.txt
+  149  head file1.txt
+  150  tail file1.txt
+  151  tail -20file1.txt
+  152  tail -20 file1.txt
+  153  tail -15 file1.txt
+  154  head -15 file1.txt
+  155  diff file1.txt file2.log
+  156  cmp file1.txt file2.log
+  157  cmp file1.txt file2.log
+  158  comm file1.txt file2.log
+  159  cat file2.log
+  160  sort file2.log
+  161  export ps1=12
+  162  ls
+  163  service ssh status
+  164  ps -ef
+  165  ps -p 
+  166  ps -p PID
+  167  df -h
+  168  mount
+  169  chmod +x loop.sh
+  170  touch loop.sh
+  171  chmod +x loop.sh
+  172  ls -l loop.sh
+  173  ifconfig
+  174  traceroute localhost
+  175  wget 
+  176  wget https://ar.snap.com/lens-studio-dl?utm_source=Display&utm_medium=PAIDPLATFORM&utm_campaign=LensStudio_Consideration_IN/ID&utm_term=CareerArtists_RDA&utm_content=LS_ProductPage&gad_source=5&gclid=EAIaIQobChMIvdbT4ILSiAMVDp-sAh0yjTeYEAEYASAAEgJR_vD_BwE
+  177  sudo ls
+  178  cal
+  179  cal may 2020
+  180  alias lsl="ls -l"
+  181  ls
+  182  lsl
+  183  pwd
+  184  cd /d
+  185  cd m27
+  186  cd temp
+  187  less
+  188  less ./temp
+  189  less /m27/temp
+  190  less file1.txt
+  191  ls -p | grep -v 
+  192  env
+  193  echo user
+  194  echo $user
+  195  ls
+  196  echpo shell
+  197  echo shell
+  198  echo SHELL
+  199  du -sh
+  200  nano -t
+  201  clear
+  202  pwd
+  203  cd ../
+  204  cd ~
+  205  pwd
+  206  ls -u
+  207  ls -a
+  208  rm -r .git/
+  209  clear
+  210  ls
+  211  ls -a
+  212  ls -l
+  213  clear
+  214  ls
+  215  cd OneDrive/
+  216  LS
+  217  cd desktop
+  218  clear
+  219  mkdir linuxpractice
+  220  cd linuxpractice/
+  221  touch file1.txt
+  222  ls
+  223  nano file2.txt
+  224  ls
+  225  cat file2.txt
+  226  nano file1.txt
+  227  cat file1.txt
+  228  ls
+  229  mkdir abc
+  230  ls
+  231  cp file1.txt abc/
+  232  ls
+  233  cd abc/
+  234  ls
+  235  cd ../
+  236  ls
+  237  mv file2.txt abc/
+  238  ls
+  239  cd abc/
+  240  ls
+  241  cd ../
+  242  mkdir def
+  243  ls
+  244  rm file1.txt 
+  245  ls
+  246  rmdir def/
+  247  ls
+  248  rmdir abc/
+  249  rm -r abc/
+  250  ls
+  251  history
+  252  history
+  253  history >commands.txt
+  254  ls
+  255  cat commands.txt 
+  256  ls
+  257  ls
+  258  ls -u
+  259  la -a
+  260  ls -a
+  261  ls -l
+  262  pwd
+  263  cd
+  264  cd nano file2.txt
+  265   nano file2.txt
+  266  ls
+  267  cd oneDrive
+  268  cd desktop
+  269  cd linuxpractice/
+  270  ls
+  271  touch new-file new-file-link
+  272  ls
+  273  rm new-file-link 
+  274  ls
+  275  ln -s new-file new-file-link
+  276  ls
+  277  ls -l
+  278  touch new-file-link 
+  279  ls
+  280  ln -s new-file new-file-link
+  281  ln -s new-file file1.txt
+  282  lks
+  283  ls
+  284  ls -l
+  285  clear
+  286  cat file2.txt
+  287  ls
+  288  cat file1.txt 
+  289  echo new-file
+  290  cat file1.txt | less
+  291  nano file1.txt 
+  292  cat file1.txt | less
+  293  man ls
+  294  man ls
+  295  MAN ls
+  296  uname -a
+  297  whoami
+  298  ls
+  299  touch file2.txt
+  300  touch file3.txt
+  301  ls
+  302  tar -cvf crearc file2.txt file3.txt 
+  303  tar -xvf crearc
+  304  ls
+  305  touch sample.zip
+  306  ls
+  307  zip sample.zip file2.txt file3.txt 
+  308  zip sample2.zip file2.txt file3.txt 
+  309  unzip sample2.zip
+  310  unzip sample2.zip
+  311  ls
+  312  unzip sample2.zip
+  313  nano file2.txt 
+  314  cat new-file
+  315  cat file2.txt 
+  316  cat file2.txt | grep "learn"
+  317  head file2.txt 
+  318  tail file2.txt 
+  319  history
+  320  clear
+  321  ls
+  322  clear
+  323  pwd
+  324  cd oneDrive
+  325  cd desktop[
+  326  cd desktop
+  327  cd linuxcommands
+  328  cd linuxpractice
+  329  ls
+  330  diff file1.txt file2.txt 
+  331  cmp file1.txt file2.txt 
+  332  comm file1.txt file2.txt 
+  333  sort file1.txt 
+  334  sort -n file1.txt 
+  335  sort -k 2 file1.txt 
+  336  export ps1 ="-->"
+  337  export ps1 ="aa"
+  338  export ps1 ="11"
+  339  export
+  340  export -p
+  341  student=abc
+  342  export student
+  343  printenv student
+  344  export var=ab
+  345  printenv var
+  346  clear
+  347  ssh username@remoteserver
+  348  lidbdnhjhgg  
+  349  service ssh status
+  350  Service ssh status
+  351  SERVICE ssh status
+  352  SERVICE ssh stop
+  353  ps
+  354  ps -p pid
+  355  kill 986
+  356  ps
+  357  taskkill PID 986 /f
+  358  kill PID 986 /f
+  359  kill  986 /f
+  360  kill  986 
+  361  kill --help
+  362  kill -l 986
+  363  sudo kill 986
+  364  kill 4686
+  365  kill 985
+  366  history
+  367  clear
+  368  ls
+  369  clear
+  370  pwd
+  371  cd oneDrive
+  372  cd desktop[
+  373  cd desktop
+  374  cd linuxcommands
+  375  cd linuxpractice
+  376  ls
+  377  diff file1.txt file2.txt 
+  378  cmp file1.txt file2.txt 
+  379  comm file1.txt file2.txt 
+  380  sort file1.txt 
+  381  sort -n file1.txt 
+  382  sort -k 2 file1.txt 
+  383  export ps1 ="-->"
+  384  export ps1 ="aa"
+  385  export ps1 ="11"
+  386  export
+  387  export -p
+  388  student=abc
+  389  export student
+  390  printenv student
+  391  export var=ab
+  392  printenv var
+  393  clear
+  394  ssh username@remoteserver
+  395  lidbdnhjhgg  
+  396  service ssh status
+  397  Service ssh status
+  398  SERVICE ssh status
+  399  SERVICE ssh stop
+  400  ps
+  401  ps -p pid
+  402  kill 986
+  403  ps
+  404  taskkill PID 986 /f
+  405  kill PID 986 /f
+  406  kill  986 /f
+  407  kill  986 
+  408  kill --help
+  409  kill -l 986
+  410  sudo kill 986
+  411  kill 4686
+  412  kill 985
+  413  pwd
+  414  cd /d
+  415  cd /gitcouse
+  416  git init
+  417  git status
+  418  git branch
+  419  cd gitcouse
+  420  cd /c
+  421  cd gitcouse
+  422  git status
+  423   git checkout -b demo3.html
+  424  git status
+  425  git branch
+  426  nano
+  427  git status
+  428  git add .
+  429  git status
+  430  git push file1.txt
+  431  git commit -m"file1"
+  432  git push file1.txt
+  433  git push origin demo3.html
+  434  ls
+  435  awk '{print $2}' ls
+  436  cd ../
+  437  cd ../
+  438  cd /d
+  439  cd m27
+  440  cd temp
+  441  ls
+  442  awk '{print $2}' file1.txt
+  443  ls -l
+  444  ls -l | '{print $nf}'
+  445  ls -l | '{print $NF}'
+  446  ls -l | awk '{print $NF}'
+  447  ls -l | awk '{print $9}'
+  448  awk '{print nr}' file1.txt 
+  449  awk '{print NR}' file1.txt 
+  450  clear
+  451  ls
+  452  ls -a
+  453  git init
+  454  ls -a
+  455  git status
+  456  git add .
+  457  git status
+  458  git rm --cached .
+  459  git rm -r --cached .
+  460  git status
+  461  git add .
+  462  git status
+  463  git commit -m "[jayadeva] ADD: added file1"
+  464  git staatus
+  465  git status
+  466  git remote add origin https://github.com/jayadeva-ds/demo1.git
+  467  git branch -M main
+  468  git push -u origin main
+  469  ls
+  470  cd ../
+  471  cd ~
+  472  pwd
+  473  ls
+  474  cd oneDrive
+  475  cd desktop
+  476  cd linuxPractice
+  477  ls -a
+  478  git init
+  479  ls -a
+  480  git remote
+  481  git remote add origin https://github.com/jayadeva-ds/linuxgitdoc.git
+  482  git remote
+  483  ls
+  484  git status
+  485  git add commands.txt commands2.txt
+  486  git commit -m "[jayadeva] : working doc"
+  487  git status
+  488  git push origin master
+  489  ls
+  490  git status
+  491  git add linux and git theory.txt
+  492  git add linux and git theory.txt
+  493  git add .
+  494  git status
+  495  git rm -r --cached
+  496  git status
+  497  git rm -r --cached crearc
+  498  git status
+  499   git commit -m "[jayadeva] :file2"
+  500  git push origin master
+  501  history
+  502  history >gitcommands.txt
