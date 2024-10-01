@@ -1,0 +1,49 @@
+import readline from 'readline-sync';
+
+let studentList = [
+    { rollNo: 101, name: "Om  ", class: 5, gender: "Male", testScores: [], totalMarks: 0, percentages: 0 },
+    { rollNo: 102, name: "Sara", class: 5, gender: "Female", testScores: [], totalMarks: 0, percentages: 0 },
+    { rollNo: 103, name: "Raj ", class: 6, gender: "Male", testScores: [], totalMarks: 0, percentages: 0 },
+    { rollNo: 104, name: "Nina", class: 6, gender: "Female", testScores: [], totalMarks: 0, percentages: 0 }
+];
+
+function menu() {
+    while (true) {
+        console.log(`**** Menu ****\n\
+        1) Take a Test \n\
+        2) Generate Result \n\
+        3) Display Result \n\
+        4) View Classwise Result \n\
+        5) Detail Analysis of Result\n\
+        6) View Top Performer \n\
+        7) Exit`); 
+
+        const choice = readline.question("Choose an option (1-5): ");
+
+        switch (choice) {
+            case '1':
+                takeTest();
+                break;
+            case '2':
+                generateResults();
+                break;
+            case '3':
+                handleViewResult();
+                break;
+            case '4':
+                handleClassResult();
+                break;
+            case '5':
+                detailedAnalysis();
+                break;
+            case '6':
+                viewTopPerformers();
+                break;
+            case '7':
+                console.log("Exiting the program. Goodbye!");
+                return;
+            default:
+                console.log("Invalid option. Please try again.");
+        }
+    }
+}
